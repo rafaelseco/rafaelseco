@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaelseco
 - 👀 I’m interested in medical programming
-- 🌱 I’m currently learning Biomedical Engineering, focused on languages such as Python, C, R and Matlab.
+- 🌱 I’m currently learning Biomedical Engineering, focused on languages such as Python, C, R, Matlab, HTML and CSS.
 - 📫 How to reach me: rafaelnunesseco@hotmail.com  // +351 939101068 // Instagram: rafaelnsseco
 
 <!---
